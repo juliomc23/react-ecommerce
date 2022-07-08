@@ -1,0 +1,14 @@
+.qty__span--num{
+    position: absolute;
+    background-color: orange;
+    width: 1.8rem;
+    height: 1.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.3rem;
+    border-radius: 10rem;
+    left: 1.5rem;
+    top: 0rem;
+}

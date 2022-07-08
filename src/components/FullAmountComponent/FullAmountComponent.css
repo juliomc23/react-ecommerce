@@ -1,0 +1,29 @@
+.info__div{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.empty__span{
+   font-size: 2rem;
+   text-align: center;
+   font-weight: bold;
+   color: rgb(211, 211, 211);
+}
+
+.fill{
+    color: black;
+}
+
+.price__paragraph{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.qty__span{
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: rgb(90, 90, 90);
+}

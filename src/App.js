@@ -1,14 +1,19 @@
+import { useState } from 'react';
 import './App.css';
-import Products from './components/Products';
-// import Article from './components/Article';
+import HeaderComponent from './components/HeaderComponent/HeaderComponent';
+import ProductsComponent from './components/ProductsComponent/ProductsComponent';
 
 
-function App(props) {
+function App() {
+
+  const [cartItem, setCartItems] = useState(() => {
+    return localStorage.getItem('userCart') ? JSON.parse(localStorage.getItem('userCart')) : []
+  });
 
   return (
-      // <Article {...props}/>
     <>
-      <Products  />
+      <HeaderComponent cartItem={cartItem}/>
+      <ProductsComponent cartItem={cartItem} setCartItems={setCartItems}/>
     </>
   );
 }

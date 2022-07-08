@@ -1,0 +1,40 @@
+.navbar__div{
+    display: flex;
+    justify-content: space-around;
+}
+.ul__list{
+    display: flex;
+    width: 85%;
+    justify-content: space-around;
+    align-content: space-around;
+    list-style: none;
+}
+
+.li__element{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 4rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    transition: all 300ms;
+}
+
+.li__element:hover{
+    transform: scale(1.2);
+    color: rgb(58, 58, 58);
+}
+
+.span__cartItems{
+    position: relative;
+    left: 0rem;
+}
+
+.cart__div--icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
