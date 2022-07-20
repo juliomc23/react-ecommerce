@@ -1,14 +1,14 @@
 .qty__span--num{
     position: absolute;
-    background-color: orange;
+    color: orange;
     width: 1.8rem;
     height: 1.8rem;
     display: flex;
     justify-content: center;
     align-items: center;
     font-weight: bold;
-    font-size: 1.3rem;
+    font-size: 1rem;
     border-radius: 10rem;
-    left: 1.5rem;
-    top: 0rem;
+    left: 0.3rem;
+    top: -0.1rem;
 }

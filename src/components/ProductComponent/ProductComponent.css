@@ -1,0 +1,74 @@
+.oneproduct__div{
+    display: flex;
+    padding-left: 2rem;
+    align-items: center;
+}
+
+.div_imgshoes{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img--shoes{
+    width: 20rem;
+    height: 25rem;
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.div__infoProduct{
+    height: 13rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.span__title{
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.span__price{
+    font-size: 1rem;
+}
+
+.addItem__button{
+    border: none;
+    background-color: black;
+    color: white;
+    height: 3rem;
+    font-size: 1.1rem;
+    border-radius: 10rem;
+    cursor: pointer;
+}
+
+.addItem__button:hover{
+    background-color: rgb(87, 87, 87);
+}
+
+.alert__img{
+    width: 10rem;
+    height: 10rem;
+}
+
+.whiseList__heart{
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+}
+
+.div__whiseList{
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    border-radius: 10rem;
+    cursor: pointer;
+    font-size: 1.1rem;
+}
+
+.div__whiseList:hover{
+    border: 1px solid black;
+}

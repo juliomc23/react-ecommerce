@@ -1,0 +1,225 @@
+{
+  "products": [
+    {
+      "id": 100,
+      "title": "Nike Runner 2000",
+      "price": 88,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/2b564ae2-4113-40e9-8c80-9cb020820dea/fecha-de-lanzamiento-de-las-air-jordan%C2%A02-x-maison-ch%C3%A2teau-rouge-orange-and-sail-do5254-180.jpg",
+        "down": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/6abb020d-fb1c-4e0f-9055-77a246591fa0/fecha-de-lanzamiento-de-las-air-jordan%C2%A02-x-maison-ch%C3%A2teau-rouge-orange-and-sail-do5254-180.jpg",
+        "aside": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/57423853-db70-482c-bf07-ffd464bd1130/fecha-de-lanzamiento-de-las-air-jordan%C2%A02-x-maison-ch%C3%A2teau-rouge-orange-and-sail-do5254-180.jpg",
+        "up": "https://static.nike.com/a/images/t_prod_sc/w_640,c_limit,f_auto/64cdfc39-c9ef-4e7f-80f2-706bf7e37c8e/fecha-de-lanzamiento-de-las-air-jordan%C2%A02-x-maison-ch%C3%A2teau-rouge-orange-and-sail-do5254-180.jpg"
+      }
+    },
+    {
+      "id": 101,
+      "title": "Puma 80's",
+      "price": 109,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/b572e581-37a3-4ea9-bf8a-14f1f89a397f/fecha-de-lanzamiento-de-las-air-kukini-se-lemon-venom-and-aurora-dv1902-100.jpg",
+        "down": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/2fce65a8-d1c7-414e-8feb-257cf5d9cfb3/fecha-de-lanzamiento-de-las-air-kukini-se-lemon-venom-and-aurora-dv1902-100.jpg",
+        "aside": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/dbcc3eb8-f28d-4405-8814-609c19aef949/fecha-de-lanzamiento-de-las-air-kukini-se-lemon-venom-and-aurora-dv1902-100.jpg",
+        "up": "https://static.nike.com/a/images/t_prod_sc/w_640,c_limit,f_auto/6c5fa8d0-92af-4486-a47e-e0f2981b0ae7/fecha-de-lanzamiento-de-las-air-kukini-se-lemon-venom-and-aurora-dv1902-100.jpg"
+      }
+    },
+    {
+      "id": 102,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/cff2bcb8-e664-4f0f-a6bd-19941db446f5/air-force-1-07-lv8-zapatillas-JfJSnH.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/63590211-741c-41e3-b9d5-a2564bc1b603/air-force-1-07-lv8-zapatillas-JfJSnH.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/8a925205-d6d5-4fed-bd1d-f4ea4c98eaad/air-force-1-07-lv8-zapatillas-JfJSnH.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a28adc58-d836-47fc-b282-22b136995ac7/air-force-1-07-lv8-zapatillas-JfJSnH.png"
+      }
+    },
+    {
+      "id": 103,
+      "title": "Nike Runner 2000",
+      "price": 88,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0aa9412f-b8c8-44f4-96ba-07d9c6476511/air-force-1-07-zapatillas-KprQCr.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/aa136aa2-524d-4f19-ae70-20a631795bac/air-force-1-07-zapatillas-KprQCr.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e6adac01-175c-4ca7-ac59-752897534d15/air-force-1-07-zapatillas-KprQCr.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ff7f17b5-b35b-4215-9d9b-4f01557ebee3/air-force-1-07-zapatillas-KprQCr.png"
+      }
+    },
+    {
+      "id": 104,
+      "title": "Puma 80's",
+      "price": 109,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8511d7e9-313d-4bae-ac25-bcddf2db5d12/zoomx-invincible-run-flyknit-2-zapatillas-de-running-asfalto-VWFZPV.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/56a74c51-930c-40a2-a6c5-88f4ef7e0388/zoomx-invincible-run-flyknit-2-zapatillas-de-running-asfalto-VWFZPV.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/c8e95c9d-2b28-4859-8185-bddb9d242e79/zoomx-invincible-run-flyknit-2-zapatillas-de-running-asfalto-VWFZPV.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a612ca4f-466e-4327-a262-c62b927dd547/zoomx-invincible-run-flyknit-2-zapatillas-de-running-asfalto-VWFZPV.png"
+      }
+    },
+    {
+      "id": 105,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4ecd28da-cfd4-4e01-92c3-ca1522fa3513/air-zoom-pegasus-39-zapatillas-de-running-asfalto-JNVFbf.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ddd8e8f6-c550-4120-ab1b-11947a5e745b/air-zoom-pegasus-39-zapatillas-de-running-asfalto-JNVFbf.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a3d23356-f616-40d2-aa36-56ddd0b7a24b/air-zoom-pegasus-39-zapatillas-de-running-asfalto-JNVFbf.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/fd272031-3a27-4975-8153-3466314e21a3/air-zoom-pegasus-39-zapatillas-de-running-asfalto-JNVFbf.png"
+      }
+    },
+    {
+      "id": 106,
+      "title": "Nike Runner 2000",
+      "price": 88,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d2321830-280b-4525-8134-3c5e080557d3/blazer-low-77-prm-zapatillas-MxV9Vg.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/9bb8f9f8-7f89-48df-942f-b2cae9cbb07b/blazer-low-77-prm-zapatillas-MxV9Vg.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/54c95f9f-b995-4eac-a571-1464359ba0f5/blazer-low-77-prm-zapatillas-MxV9Vg.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/295db80c-ccd9-4998-8fcc-ae21963042cd/blazer-low-77-prm-zapatillas-MxV9Vg.png"
+      }
+    },
+    {
+      "id": 107,
+      "title": "Puma 80's",
+      "price": 109,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1974ac1f-3bc7-4dbe-b449-fe00c44d5442/air-max-90-g-zapatillas-de-golf-h2bsXX.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4627a8be-f9ad-4eeb-97a7-82e747a4c864/air-max-90-g-zapatillas-de-golf-h2bsXX.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2d03f1af-b7c9-4657-8ec5-65bc72d6d542/air-max-90-g-zapatillas-de-golf-h2bsXX.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e273284c-f6a2-40b6-8afb-4df3f26fa385/air-max-90-g-zapatillas-de-golf-h2bsXX.png"
+      }
+    },
+    {
+      "id": 108,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ddd1e3de-80c5-40d0-b9cb-ee3813390b1d/air-zoom-vomero-16-zapatillas-de-running-carretera-43VVMR.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a5d1eda9-c889-4c87-93e3-27588cf2e344/air-zoom-vomero-16-zapatillas-de-running-carretera-43VVMR.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e2a137fa-f98c-4a7c-abff-5459adf1725b/air-zoom-vomero-16-zapatillas-de-running-carretera-43VVMR.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b2e6f034-a6e2-48b3-b3b3-5715edec1409/air-zoom-vomero-16-zapatillas-de-running-carretera-43VVMR.png"
+      }
+    },
+    {
+      "id": 109,
+      "title": "Nike Runner 2000",
+      "price": 88,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2acfdc0b-bcfe-4b8d-af3c-b6dc6f90f107/air-zoom-structure-24-zapatillas-de-running-asfalto-hHTmXR.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f8e5a2fa-bf2b-4594-8213-5583510f3358/air-zoom-structure-24-zapatillas-de-running-asfalto-hHTmXR.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/5f95de47-79d4-4f15-8e33-e6a41b1e765c/air-zoom-structure-24-zapatillas-de-running-asfalto-hHTmXR.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/92cd2c7f-13e6-4d54-8ea4-75dae44c6c9e/air-zoom-structure-24-zapatillas-de-running-asfalto-hHTmXR.png"
+      }
+    },
+    {
+      "id": 110,
+      "title": "Puma 80's",
+      "price": 109,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1cbf2075-7f55-4303-a0b4-b54360fa18f9/air-max-plus-iii-zapatillas-3BSBtx.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b21cd924-50f5-4b97-84e4-addd31796748/air-max-plus-iii-zapatillas-3BSBtx.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/1099248d-b6c6-40ff-80a7-4dfef0a0e2e6/air-max-plus-iii-zapatillas-3BSBtx.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e393da49-ffe3-433c-93dc-f829333e5b93/air-max-plus-iii-zapatillas-3BSBtx.png"
+      }
+    },
+    {
+      "id": 111,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0ee73023-ece6-4f57-b91e-8e1b3f37c99e/waffle-one-se-zapatillas-mT3CQN.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/80c8ff84-b4ed-49d9-9f95-2566d838b7cf/waffle-one-se-zapatillas-mT3CQN.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/41d1de80-f1f8-49b4-85f1-1c1310ea8595/waffle-one-se-zapatillas-mT3CQN.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d5c5360c-0237-440a-9903-0632c5f65f1f/waffle-one-se-zapatillas-mT3CQN.png"
+      }
+    },
+    {
+      "id": 112,
+      "title": "Puma 80's",
+      "price": 109,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a975c3f0-e1b2-48e2-9a48-1e4394930f91/air-max-terrascape-90-zapatillas-CRn0XW.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/87a4f7be-f998-49de-80ad-d946596f1796/air-max-terrascape-90-zapatillas-CRn0XW.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/64ba2df0-a77b-415d-b9fa-6ce5b44f9c7e/air-max-terrascape-90-zapatillas-CRn0XW.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f9e0e58a-584f-4e26-97fa-71d95165e558/air-max-terrascape-90-zapatillas-CRn0XW.png"
+      }
+    },
+    {
+      "id": 113,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33d6faf4-c9ab-4a8c-9e9c-892e8607769c/air-force-1-crater-flyknit-next-nature-zapatillas-qHncTB.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/6f799289-c686-4d9e-ab44-898d9566b314/air-force-1-crater-flyknit-next-nature-zapatillas-qHncTB.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b8830028-6cd5-47f0-a512-b3fe21fa3655/air-force-1-crater-flyknit-next-nature-zapatillas-qHncTB.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/5926c646-1221-4afd-a756-372035bd4d90/air-force-1-crater-flyknit-next-nature-zapatillas-qHncTB.png"
+      }
+    },
+    {
+      "id": 114,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/249b4f81-a474-48d7-89f0-a3f466673092/fecha-de-lanzamiento-de-las-air-kukini-se-summit-white-and-aviator-grey-dv1894-100.jpg",
+        "down": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/5a4bec0c-14fb-4526-81e2-18f215b593e3/fecha-de-lanzamiento-de-las-air-kukini-se-summit-white-and-aviator-grey-dv1894-100.jpg",
+        "aside": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/fed84179-9cc1-4f7a-bced-90f2878da59d/fecha-de-lanzamiento-de-las-air-kukini-se-summit-white-and-aviator-grey-dv1894-100.jpg",
+        "up": "https://static.nike.com/a/images/t_prod_sc/w_640,c_limit,f_auto/c8be9a0f-ce1f-4250-87e8-bd1860040bec/fecha-de-lanzamiento-de-las-air-kukini-se-summit-white-and-aviator-grey-dv1894-100.jpg"
+      }
+    },
+    {
+      "id": 115,
+      "title": "Puma 80's",
+      "price": 109,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/b29341df-4a06-46ff-89e0-6051599e315f/fecha-de-lanzamiento-de-las-jordan-delta%C2%A03-pink-foam-dd9361-601.jpg",
+        "down": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/87a996aa-7e1d-4193-ab6b-8175d378e10d/fecha-de-lanzamiento-de-las-jordan-delta%C2%A03-pink-foam-dd9361-601.jpg",
+        "aside": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/3224d6a9-aff4-4296-b206-19c68c7c67f7/fecha-de-lanzamiento-de-las-jordan-delta%C2%A03-pink-foam-dd9361-601.jpg",
+        "up": "https://static.nike.com/a/images/t_prod_sc/w_640,c_limit,f_auto/446442f8-706b-4fc8-be95-387ec78d9fd5/fecha-de-lanzamiento-de-las-jordan-delta%C2%A03-pink-foam-dd9361-601.jpg"
+      }
+    },
+    {
+      "id": 116,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-zapatillas-DMJP7P.png",
+        "down": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/00375837-849f-4f17-ba24-d201d27be49b/air-force-1-07-zapatillas-DMJP7P.png",
+        "aside": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3cc96f43-47b6-43cb-951d-d8f73bb2f912/air-force-1-07-zapatillas-DMJP7P.png",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/33533fe2-1157-4001-896e-1803b30659c8/air-force-1-07-zapatillas-DMJP7P.png"
+      }
+    },
+    {
+      "id": 117,
+      "title": "Nike Rev Lite",
+      "price": 66,
+      "img": {
+        "front": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/d8de32fb-3919-42b8-83e4-c2fad5f053af/fecha-de-lanzamiento-de-las-dunk-low-retro-vintage-photon-dust-and-summit-white-do9776-001.jpg",
+        "down": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/5e2ca7ac-49ea-4293-b1d4-05033c6af2aa/fecha-de-lanzamiento-de-las-dunk-low-retro-vintage-photon-dust-and-summit-white-do9776-001.jpg",
+        "aside": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/456edd74-410b-486f-8e47-0016cb1da5ec/fecha-de-lanzamiento-de-las-dunk-low-retro-vintage-photon-dust-and-summit-white-do9776-001.jpg",
+        "up": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/577418db-f3d5-4483-b73b-15248cade4e6/custom-nike-dunk-unlocked-by-you.png"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "lastName": "admin",
+      "email": "admin@admin.com",
+      "password": "admin"
+    },
+    {
+      "name": "julio",
+      "lastname": "Macias Caldera",
+      "email": "julio@julio.com",
+      "password": "asas",
+      "id": 2
+    },
+    {
+      "name": "jesus",
+      "lastname": "macias",
+      "email": "jesus@jesus.com",
+      "password": "123456",
+      "id": 3
+    }
+  ]
+}

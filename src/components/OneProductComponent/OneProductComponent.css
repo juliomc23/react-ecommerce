@@ -1,18 +1,14 @@
 .product__card{
     display: flex;
     flex-direction: column;
-    border: 1px solid #ccc;
-    margin-left: 1rem;
-    margin-bottom: 1rem;
-    padding: 0.1rem;
+    border: 1px solid rgba(204, 204, 204, 0.26);
+    margin-bottom: 1.5rem;
+    padding: 0.5rem;
     cursor: pointer;
-    transition: all 300ms;
-    max-height: 250px;
+    color: black;
+    text-decoration: none;
 }
 
-.product__card:hover{
-    transform: rotate(1deg);
-}
 
 .product__title{
     margin-bottom: 0.5rem;
@@ -23,7 +19,7 @@
 
 .product__img{
     width: 15rem;
-    height: 10rem;
+    height: 15rem;
 }
 
 .product__price{
@@ -32,7 +28,7 @@
     margin-left: 0.5rem;
     font-weight: bold;
     font-size: 1rem;
-    color: rgb(65, 65, 65);
+    color: rgb(0, 0, 0);
 }
 
 .product__button--add{
@@ -56,4 +52,3 @@
     border: 1px solid #ccc;
     margin-bottom: 0.1rem;
 }
-
